@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -7.008
+TNS   : -36.409
+
+Type  : Slow 1200mV 85C Model Setup 'smp8:smp8|datapath:dp|flopr:pcreg|q[0]'
+Slack : -4.964
+TNS   : -62.805
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : -2.713
+TNS   : -23.455
+
+Type  : Slow 1200mV 85C Model Hold 'smp8:smp8|datapath:dp|flopr:pcreg|q[0]'
+Slack : -1.242
+TNS   : -7.807
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -19.705
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'smp8:smp8|datapath:dp|flopr:pcreg|q[0]'
+Slack : -1.285
+TNS   : -20.560
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -6.233
+TNS   : -32.029
+
+Type  : Slow 1200mV 0C Model Setup 'smp8:smp8|datapath:dp|flopr:pcreg|q[0]'
+Slack : -4.575
+TNS   : -58.136
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -2.590
+TNS   : -22.625
+
+Type  : Slow 1200mV 0C Model Hold 'smp8:smp8|datapath:dp|flopr:pcreg|q[0]'
+Slack : -1.183
+TNS   : -7.291
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -19.705
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'smp8:smp8|datapath:dp|flopr:pcreg|q[0]'
+Slack : -1.285
+TNS   : -20.560
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -2.981
+TNS   : -11.610
+
+Type  : Fast 1200mV 0C Model Setup 'smp8:smp8|datapath:dp|flopr:pcreg|q[0]'
+Slack : -2.172
+TNS   : -26.282
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -1.487
+TNS   : -12.877
+
+Type  : Fast 1200mV 0C Model Hold 'smp8:smp8|datapath:dp|flopr:pcreg|q[0]'
+Slack : -0.658
+TNS   : -4.799
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -21.289
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'smp8:smp8|datapath:dp|flopr:pcreg|q[0]'
+Slack : -1.000
+TNS   : -16.000
+
+------------------------------------------------------------
